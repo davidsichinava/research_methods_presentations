@@ -1,0 +1,172 @@
+<style>
+  
+iframe {
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  min-width: 100vw; 
+  min-height: 100vh; 
+  z-index: -1000; 
+  overflow: hidden;
+}
+</style>
+
+<div class="header" style="margin-top:0 px;font-size:60%;">სმკმ: მესამე შეხვედრა</div>
+
+სოციალურ მეცნიერებათა კვლევის მეთოდები
+========================================================
+author: დავით სიჭინავა
+date: მარტის ბოლო
+autosize: true
+transition: none
+css: css/style.css
+font-family: 'BPG_upper'
+<span style="font-weight:bold; font-family:BPG_upper;">მესამე შეხვედრა</span>
+
+
+```{r}
+```
+
+დღევანდელი შეხვედრის გეგმა
+========================================================
+
+- ლექცია: სოციალურ მეცნიერებათა კვლევის ეთიკა
+
+
+ექსპერიმენტი ავტორიტეტებისადმი მორჩილების შესახებ
+========================================================
+<img src="img/milgram.png" alt="Drawing" style="width: 400px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+ექსპერიმენტი ავტორიტეტებისადმი მორჩილების შესახებ
+========================================================
+
+![](https://www.youtube.com/watch?v=Kzd6Ew3TraA)
+
+
+სტენფორდის ციხის ექსპერიმენტი
+========================================================
+<img src="img/stanford.jpg" alt="Drawing" style="width: 600px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+ლოდ ჰამფრისი: Tearoom trade
+========================================================
+<img src="img/tearoom_trade.jpg" alt="Drawing" style="width: 300px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+სიფილისის კვლევა ტასკიგის უნივერსიტეტში
+========================================================
+<img src="img/tusk.jpg" alt="Drawing" style="width: 600px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+ნაზი შამანაურის საქმე: დუნედ მიმდინარე შიზოფრენია
+========================================================
+<img src="img/shamanauri.jpg" alt="Drawing" style="width: 600px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+ძირითადი ეთიკური პრინციპები
+========================================================
+* მონაწილეებისთვის ზიანის მიყენება
+* ინფორმირებული თანხმობის არარსებობა
+* პირადი ცხოვრების ხელყოფა
+* მოტყუება
+
+
+ინფორმირებული თანხმობა
+========================================================
+* კომპეტენცია
+	- შეუძლია თუ არა ადამიანს, თავად იმოქმედოს და გადაწყვეტილებები მიიღოს?
+* ვოლუნტარიზმი
+	- მონაწილეობს თუ არა ადამიანი ნებაყოფლობით?
+* სრული ინფორმაცია
+	- აქვს თუ არა ადამიანს ჩარევასთან დაკავშირებით ამომწურავი ინფორმაცია?
+
+ინფორმირებული თანხმობა
+========================================================
+* პროცედურების ზუსტი განმარტება
+* თანმხლები დისკომფორტის აღწერა
+* მოსალოდნელი სარგებლის აღწერა
+* ალტერნატიული პროცედურები
+* კითხვებზე პასუხის შეთავაზება
+* ცდისპირს ნებისმიერ დროს შეუძლია კვლევაში მონაწილეობაზე უარის თქმა
+
+
+ინფორმირებული თანხმობა
+========================================================
+<img src="img/consent.png" alt="Drawing" style="width: 600px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+
+მოტყუება
+========================================================
+<img src="img/kronika.jpg" alt="Drawing" style="width: 600px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+
+საიდუმლოება
+========================================================
+* სენსიტიური ინფორმაცია
+* გარემო
+* ინფორმაციის გავრცელება
+
+
+ანონიმურობა და კონფიდენციალობა
+========================================================
+* სოციალური კვლევა და ქართული კანონმდებლობა
+	+ პერსონალური მონაცემთა დამუშავება
+	+ კანონი ,,სტატისტიკის შესახებ''
+
+
+
+კეთილსინდისიერება და მონაცემთა ფაბრიკაცია:
+========================================================
+| პროცენტული წილი | დარღვევა |
+|---------------|--------|
+| 1.97			|მონაცემთა და კვლევის შედეგების გაყალბება |
+| 33.7			| კვლევის ეთიკის სხვა ტიპის დარღვევა	|
+| 14.12			| შეუმჩნევიათ კოლეგების მიერ კვლევის ეთიკის სერიოზული დარღვევა |
+| 72.00			| შეუმჩნევიათ კოლეგების მიერ კვლევის ეთიკის ნაკლებად სერიოზული დარღვევა |
+
+<span style="width: 100%;text-align: center; font-size:12px">წყარო: Fanelli, D. (2009): _How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data_</span>
+
+
+
+LaCour & Green, 2014
+========================================================
+LaCour, M. & Green, D (2014): _When contact changes minds: An experiment on transmission of support for gay equality_,  http://science.sciencemag.org/content/346/6215/1366
+
+LaCour & Green, 2014
+========================================================
+Brookman, D., Kalla, J., Aronow, P. (2014): _Irregularities in LaCour (2014)_, 	http://stanford.edu/~dbroock/broockman_kalla_aronow_lg_irregularities.pdf
+
+* მონაცემები სიმულირებული იყო კომპიუტერული პროგრამის მეშვეობით,
+* მონაცემთა მახასიათებლები აღებული იყო მანამდე ჩატარებული გამოკითხვების შედეგებიდან
+
+
+პლაგიატი:
+========================================================
+<img src="img/plagiarism.png" alt="Drawing" style="width: 800px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+<span style="width: 100%;text-align: center; font-size:12px">წყარო: Citron, D., Ginsparg, P. (2014): _Patterns of Text Reuse in a Scientific Corpus_</span>
+
+პლაგიატი:
+========================================================
+<img src="img/student_survey.PNG" alt="Drawing" style="width: 800px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+<span style="width: 100%;text-align: center; font-size:12px">წყარო: ბაქრაძე, ლ., ბრეგვაძე, თ., გურჩიანი, ქ., ლორთქიფანიძე, თ., ურუშაძე, ნ., ღლონტი, ლ., ჯანაშია, ს. (2016): _პლაგიატის პრობლემა და მისი აღქმა საქართველოში_</span>
+
+პლაგიატი:
+========================================================
+<img src="img/plagiarism_2.PNG" alt="Drawing" style="width: 800px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+<span style="width: 100%;text-align: center; font-size:12px">წყარო: ბაქრაძე, ლ., ბრეგვაძე, თ., გურჩიანი, ქ., ლორთქიფანიძე, თ., ურუშაძე, ნ., ღლონტი, ლ., ჯანაშია, ს. (2016): _პლაგიატის პრობლემა და მისი აღქმა საქართველოში_</span>
+
+პლაგიატი:
+========================================================
+რამდენიმე კარგი რესურსი პლაგიატის თავიდან აცილების შესახებ:
+
+* ილიას სახელმწიფო უნივერსიტეტის აკადემიური სტილი, გვ. 104
+http://iliauni.edu.ge/uploads/other/2/2588.pdf
+* საქართველოს საზოგადოებრივ საქმეთა ინსტიტუტის მიერ [შემუშავებული რეგულაცია](https://gipa.ge/uploads/files/plagiatis_wesi_2015_sss.pdf) პლაგიატის შესახებ
+* სტუდენტთა სამეცნიერო საზოგადოების მიერ გამოქვეყნებული [პატარა სტატია](http://sss.tsmu.edu/page_right.php?id=46)
+
+
+========================================================
+
+<img src="img/folks.gif" alt="Drawing" style="width: 600px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
